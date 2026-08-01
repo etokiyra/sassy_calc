@@ -1,0 +1,7 @@
+[package]
+name = "sassy_calc"
+version = "0.1.0"
+edition = "2024"
+license = "Unlicense"
+description = "A very easy sassy terminal calculator"
+[dependencies]
